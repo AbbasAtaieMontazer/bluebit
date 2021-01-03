@@ -619,11 +619,14 @@ We have won contracts with government agency, national production company and in
           <div class="row bro" >
            <div class="col-md-3"></div>          
             <div class="col-md-1">
-                <div class="pro"></div> 
+                 
             </div>          
             <div class="col-md-3"></div>   
             <div class="col-md-4"></div>   
           <div class="couponsub"> 
+            <div class=" customcheckbox float-right done" style="">
+              <span class="float-right">&#10004;</span>
+            </div>
             <a href="https://mrrd.gov.af" target="_blank" >
             
             <img src="./assets/img/clients/mrrd.png"   alt="">
@@ -635,10 +638,13 @@ We have won contracts with government agency, national production company and in
         <div class="row dotp" >
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="unpro"></div>
+            
         </div>          
         <div class="col-md-4"></div>           
         <div class="couponsub">
+          <div class=" customcheckbox float-right done">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="http://wj.parliament.af" target="_blank" >
           <img src="./assets/img/clients/walese_jerga.png" alt="">
           </a>
@@ -650,10 +656,13 @@ We have won contracts with government agency, national production company and in
           <div class="row">
             <div class="col-md-3"></div>          
               <div class="col-md-1">
-                 <div class="unpro"></div>
+                 
               </div>          
             <div class="col-md-4"></div>  
             <div class="couponsub">
+              <div class=" customcheckbox float-right done">
+                <span class="float-right">&#10004;</span>
+              </div>
               <a href="https://www.boloro.af" target="_blank" >
               <img src="./assets/img/clients/boloro.png"   alt="">
               </a>
@@ -664,12 +673,15 @@ We have won contracts with government agency, national production company and in
         <div class="row">
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="pro"></div>
+            
         </div>          
         <div class="col-md-4"></div>           
         <div class="couponsub">
+          <div class=" customcheckbox float-right done">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="https://www.mail.gov.af" target="_blank" >
-          <img src="./assets/img/clients/agriculture.png" alt="">
+            <img src="./assets/img/clients/agriculture.png" alt="">
           </a>
         </div>
         </div>
@@ -680,10 +692,13 @@ We have won contracts with government agency, national production company and in
         <div class="row">
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="pro"></div>
+            
         </div>          
         <div class="col-md-4"></div>   
         <div class="couponsub">
+        <div class=" customcheckbox float-right done">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="https://www.nedaphone.com" target="_blank" >
           <img src="./assets/img/clients/neda-phone.jpeg"  alt="">
           </a>
@@ -695,12 +710,15 @@ We have won contracts with government agency, national production company and in
         <div class="row">
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="unpro"></div>
+            
         </div>          
         <div class="col-md-4"></div>           
         <div class="couponsub">
+          <div class=" customcheckbox float-right done">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="http://mj.parliament.af" target="_blank" >
-          <img src="./assets/img/clients/mj.png" alt="">
+            <img src="./assets/img/clients/mj.png" alt="">
           </a>
         </div>
         </div>
@@ -711,12 +729,15 @@ We have won contracts with government agency, national production company and in
         <div class="row">
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="unpro"></div>
+            
         </div>          
         <div class="col-md-4"></div>           
         <div class="couponsub">
+          <div class=" customcheckbox float-right ">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="https://mof.gov.af" target="_blank" >
-          <img src="./assets/img/clients/mof.png" alt="">
+            <img src="./assets/img/clients/mof.png" alt="">
           </a>
         </div>
         </div>
@@ -727,12 +748,15 @@ We have won contracts with government agency, national production company and in
         <div class="row">
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="unpro"></div>
+            
         </div>          
         <div class="col-md-4"></div>           
         <div class="couponsub">
+          <div class=" customcheckbox float-right done">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="http://mowa.gov.af" target="_blank" >
-          <img src="./assets/img/clients/mowa.png" alt="">
+            <img src="./assets/img/clients/mowa.png" alt="">
           </a>
         </div>
         </div>
@@ -743,10 +767,13 @@ We have won contracts with government agency, national production company and in
         <div class="row">
         <div class="col-md-3"></div>          
         <div class="col-md-1">
-            <div class="unpro"></div>
+            
         </div>          
         <div class="col-md-4"></div>           
         <div class="couponsub">
+          <div class=" customcheckbox float-right done">
+            <span class="float-right">&#10004;</span>
+          </div>
           <a href="http://mcit.gov.af" target="_blank" >
           <img src="./assets/img/clients/mcit.png" alt="">
           </a>
@@ -760,27 +787,7 @@ We have won contracts with government agency, national production company and in
       </div>
     </section><!-- #clients -->
 
-    <div class="pro_section">
-        <div class="container">
-    <div class="row">
-        
-        <div class="col-md-5"></div>          
-        <div class="col-md-3">
-            <div class="pro"></div> Complated Project
-             
-        </div>    
-        <div class="col-md-4"></div>   
-      </div> 
-      <div class="row">
-        <div class="col-md-5"></div>          
-        <div class="col-md-3">
-            <div class="unpro"></div> OnGoing Project
-        </div>          
-        <div class="col-md-4"></div>   
-      </div>
-      </div><br>
-    </div>
-    
+
     <!--==========================
       Contact Section
     ============================-->

@@ -1954,3 +1954,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 #topbar .social-links a:first-child {
     border-left: 0;
 }
+
+div.checkbox{
+    width: 20px;
+    height: 20px;
+    content: "2705";
+}
+
+.customcheckbox{
+    width: 25px;
+    height: 25px;
+    background-color: #d26c18;
+    padding:1px 6px 10px 3px;
+    border-radius:50%
+}
